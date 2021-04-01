@@ -1,2 +1,6 @@
 # Project exclude paths
 /target/
+
+# IDEA files
+/.idea/
+building-restful-web-services-with-dropwizard.iml
