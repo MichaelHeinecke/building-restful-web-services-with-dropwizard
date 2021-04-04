@@ -1,7 +1,7 @@
 template: Hello, %s!
 defaultName: Stranger
 
-logging
+logging:
   level: INFO
   loggers:
     io.dropwizard: DEBUG
